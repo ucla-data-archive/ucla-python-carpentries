@@ -13,4 +13,4 @@ Notes:
 
 
 Test github to colab:
- - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/ch07.ipynb)
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ucla-data-archive/ucla-python-carpentries/blob/main/ch07.ipynb)

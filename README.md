@@ -1,8 +1,9 @@
 # ucla-python-carpentries
 Python carpentries notebook for workshop
 
-test - julia  
-test - jamie
+Julia:
+
+2. Variables and Assignment
 
 creating this lesson: [Plotting and Programming](http://swcarpentry.github.io/python-novice-gapminder/) in a notebook 
 

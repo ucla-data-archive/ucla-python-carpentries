@@ -6,7 +6,7 @@ To Dos:
 2. Setting up myBinder so people can click and open the .ipynb easily
 
 
-myBinder Success!!:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ucla-data-archive/ucla-python-carpentries/HEAD)
+CLICK HERE TO LAUNCH myBinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ucla-data-archive/ucla-python-carpentries/HEAD)
 
 Notes:
   - [Helpful Link for starting Python Jupyter Notebook Binders](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md)

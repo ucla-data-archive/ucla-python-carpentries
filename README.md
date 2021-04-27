@@ -13,4 +13,5 @@ Notes:
 
 
 Test github to colab:
+ - This only seems to work if embedded in the notebook I am trying to open
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/ucla-python-carpentries-notebook.ipynb)

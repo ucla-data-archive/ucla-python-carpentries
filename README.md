@@ -10,3 +10,7 @@ myBinder Success!!:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybi
 
 Notes:
   - [Helpful Link for starting Python Jupyter Notebook Binders](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md)
+
+
+Test github to colab:
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/ch07.ipynb)
